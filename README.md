@@ -14,8 +14,8 @@ Hi, My name is Mutse Young. I am a software developer fom China, and an IC softw
 <tbody>
  <tr>
 <td align="center" width="20%">
-<span><b><center>Qt5</center></b></span> 
-<img height=60px src="https://cdn.svgporn.com/logos/qt.svg"> 
+<span><b><center>Java</center></b></span> 
+<img height=60px src="https://cdn.svgporn.com/logos/java.svg"> 
 </td>
 
 <td align="center" width="20%">
@@ -86,5 +86,5 @@ Hi, My name is Mutse Young. I am a software developer fom China, and an IC softw
 ---
 
 <p align ="left">
-<img src="https://github-readme-stats.vercel.app/api?username=mutse&show_icons=true&title_color=00ffff&text_color=33ff33&bg_color=333333&icon_color=ffff4d")
+<img src="https://github-readme-stats.vercel.app/api?username=madelcw&show_icons=true&title_color=00ffff&text_color=33ff33&bg_color=333333&icon_color=ffff4d")
 </p>
