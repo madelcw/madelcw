@@ -2,7 +2,7 @@
 
 Hi, My name is Albert. I am a software developer fom China, and an Java software engineer since 2019. You can read more about me in my [blog](http://www.ikunhub.top/).
 
-- 🔭 I’m currently working in Wuhan of China
+- 🔭 I’m currently working in Xiamen of China
 - 🌱 I’m currently learning Solidity, Docker & JavaScript
 - 💬 Ask me about linux commands
 - 📫 How to contact me: echo "bGluY2hlbmd3ZWlrdUBvdXRsb29rLmNvbQ==" | base64 -d
@@ -36,8 +36,8 @@ Hi, My name is Albert. I am a software developer fom China, and an Java software
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Perl</center></b></span> 
-<img height=65px src="https://cdn.svgporn.com/logos/perl.svg"> 
+<span><b><center>JavaScript</center></b></span> 
+<img height=65px src="https://cdn.svgporn.com/logos/javascript.svg"> 
 </td>
 
 <td align="center" width="20%">
